@@ -1,5 +1,5 @@
-var inputRansomNote = "I need Money if you want your child back"// {g: 1, m: 3 }
-var inputBook = "Back to school: children raise money to support #BeYouYour cause campaign at DFW(Dallas Fort Worth Area)"
+var inputRansomNote = "Hand over the chocolate and no one gets hurt"// {g: 1, m: 3 }
+var inputBook = "NYTimes online: A toddler is hurt while sliding down the chocolate slide at new year eve fair"
 
 function isRansomeNotePossible(ransomNote, book) {
     let lookUp = {}
